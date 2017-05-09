@@ -1,0 +1,37 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:18:"osCommerce Add-Ons";s:4:"link";s:25:"http://www.oscommerce.com";s:11:"description";s:29:"osCommerce, Sell With Emotion";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2017 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:53:"http://www.oscommerce.com/images/oscommerce_88x31.gif";s:10:"image_link";s:25:"http://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:28:"Total Amount Excl. Tax (VAT)";s:4:"link";s:38:"http://addons.oscommerce.com/info/9568";s:11:"description";s:174:"Total Amount Excl. Tax (New Set) - VAT intracom fix<br />
+<br />
+When you have &quot;VAT intracom&quot; addon installed the total_ht was doubled before. This is repaired now.";s:7:"pubDate";s:31:"Sat, 06 May 2017 17:26:58 +0200";}i:1;a:4:{s:5:"title";s:42:"Customer Orders Tab in Admin Orders (hook)";s:4:"link";s:38:"http://addons.oscommerce.com/info/9511";s:11:"description";s:185:"Sorry - the wrong version of <br />
+includes/modules/hooks/admin/orders_customer_tab.php<br />
+was in previous package<br />
+<br />
+This has the language fix.<br />
+<br />
+Whole package";s:7:"pubDate";s:31:"Sat, 06 May 2017 01:26:50 +0200";}i:2;a:4:{s:5:"title";s:17:"tawk.to Live Chat";s:4:"link";s:38:"http://addons.oscommerce.com/info/9567";s:11:"description";s:1520:"tawk.to is a Free live chat application designed to increase the effectiveness in managing the online customer engagement experience, enabling multiple websites and agents in a single dashboard interface to chat with the visitors on your website.<br />
+<br />
+Compatible with all modern browsers, tawk.to is free live chat software created out of the growing need for businesses to respond in real time, with real people.<br />
+tawk.to offers free iOS, Android, Windows and Mac OSX apps to stay connected, or you can log in via any modern browser.<br />
+<br />
+Why use tawk.to?<br />
+tawk.to is a free live chat app and ticketing system which integrates seamlessly with osCommerce! More than 200000 companies use tawk.to to provide real-time support and service to their customers. Never lose another lead or sale again, with tawk.to you can monitor and chat with your website visitors when they need it most.<br />
+<br />
+How much does this cost?<br />
+This tawk.to app is completely free.<br />
+In fact, go create your free account here: https://www.tawk.to/<br />
+<br />
+Add-ons<br />
+tawk.to offers add-ons to enhance your customer support experience:<br />
+- Voice and video calls<br />
+- Screensharing<br />
+- Whitelabel<br />
+- Live-answering: hire a person to answer chats for you for just $1/hr. More information here: https://www.tawk.to/hire-chat-agents-1hr/<br />
+<br />
+Support<br />
+tawk.to offers 24x7-365 live support, visit https://www.tawk.to and initiate a chat or send us an email at support@tawk.to.";s:7:"pubDate";s:31:"Tue, 02 May 2017 17:17:24 +0200";}i:3;a:4:{s:5:"title";s:30:"Back Back Button v1(Bootstrap)";s:4:"link";s:38:"http://addons.oscommerce.com/info/9566";s:11:"description";s:200:"Back Back Button v1(Bootstrap)<br />
+A quick and easy way to add a back button to your product info page <br />
+-updated for content modules(Modular Product Page - Bootstrap)<br />
+- Easy installation";s:7:"pubDate";s:31:"Mon, 01 May 2017 20:58:12 +0200";}i:4;a:4:{s:5:"title";s:22:"Options Images BS v1.1";s:4:"link";s:38:"http://addons.oscommerce.com/info/9565";s:11:"description";s:273:"This module is based on Kymation's options_with_images_1.0.1 so all credits to him.<br />
+This module doesn't need the Modular Product Page and can therefore be installed and used in any osC GOLD or EDGE shop.<br />
+<br />
+Screenshot is included.<br />
+<br />
+FULL PACKAGE!";s:7:"pubDate";s:31:"Sun, 23 Apr 2017 03:04:19 +0200";}}s:11:"items_count";i:5;}
